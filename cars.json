@@ -1,0 +1,18 @@
+{
+    "admiral_str": {
+        "imgsrc": "./assets/img/cars/admiral_str.png",
+        "bodykitCost": 35000
+    },
+    "blista_rally": {
+        "imgsrc": "./assets/img/cars/blista_rally.png",
+        "bodykitCost": 50000
+    },
+    "bobcat_offroad": {
+        "imgsrc": "./assets/img/cars/bobcat_offroad.png",
+        "bodykitCost": 28000
+    },
+    "bobcat_tdr": {
+        "imgsrc": "./assets/img/cars/bobcat_tdr.png",
+        "bodykitCost": 20000
+    }
+}
